@@ -1,0 +1,6 @@
+5
+abracadabra\0abraka
+hello
+test\0middle\0end
+a\0b\0c
+ABC
