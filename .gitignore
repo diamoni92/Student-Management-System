@@ -1,0 +1,11 @@
+# Compiled executables
+sizeof_strlen
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Student data files
+students.txt
