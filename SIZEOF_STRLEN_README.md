@@ -52,6 +52,10 @@ abracadabra\0abraka" | ./sizeof_strlen
 
 ## Sample Input/Output
 
+Sample files are provided in the repository:
+- `sample_input.txt` - Contains test cases
+- `sample_output.txt` - Expected output
+
 **Input:**
 ```
 5
@@ -69,4 +73,9 @@ ABC
 16 4
 6 1
 4 3
+```
+
+To test with the sample files:
+```bash
+./sizeof_strlen < sample_input.txt
 ```
