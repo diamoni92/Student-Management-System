@@ -9,7 +9,6 @@ int main() {
     for (int i = 0; i < n; i++) {
         char input[205]; // max 100 chars * 2 for '\0' representation + extra
         char line[105];  // actual string buffer
-        int len = 0;
         
         // Read the line
         if (fgets(input, sizeof(input), stdin) == NULL) {
